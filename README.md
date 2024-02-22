@@ -9,3 +9,5 @@
 Technologies used in the project:
 
 Node.JS, Express.JS, MongoDB, Mongoose, Postman, REST-API, BcryptJS
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
